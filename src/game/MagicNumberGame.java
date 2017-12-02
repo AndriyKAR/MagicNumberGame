@@ -67,5 +67,9 @@ public class MagicNumberGame {
 
     }
 
+    public static void setBet() {
+
+    }
+
 
 }
