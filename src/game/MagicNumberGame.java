@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class MagicNumberGame {
     public static void main(String[] args) {
+
         Scanner input = new Scanner(System.in);
         Random random = new Random();
 
@@ -57,4 +58,14 @@ public class MagicNumberGame {
         System.out.println("Your payout  - " + totalPayout + " $ ");
         System.out.println("Magic number - " + magicNumber);
     }
+
+    public static void menu() {
+
+    }
+
+    public static void checkNumber (int userNumber) {
+
+    }
+
+
 }
